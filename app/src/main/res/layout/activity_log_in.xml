@@ -62,7 +62,7 @@
         android:layout_marginTop="10dp"
         android:text="Remember Me"
         android:textSize="13sp"
-        android:textColor="#117dae"/>
+        android:textColor="#5C27FE"/>
     <TextView
         android:id="@+id/txtQuenMK"
         android:layout_width="wrap_content"
@@ -71,7 +71,7 @@
         android:layout_marginTop="-25dp"
         android:text="Forgot Password?"
         android:textSize="13sp"
-        android:textColor="#117dae"/>
+        android:textColor="#5C27FE"/>
 
     <Button
         android:id="@+id/btnDangNhap"
@@ -82,7 +82,6 @@
         android:backgroundTint="#0A2A66"
         android:text="Login"
         android:textColor="#FFFFFF"
-        android:textColorHighlight="#03A9F4"
         android:textSize="19sp" />
 
     <TableLayout
@@ -110,7 +109,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="15dp"
                 android:text="Sign Up"
-                android:textColor="#117dae"
+                android:textColor="#5C27FE"
                 android:textSize="13sp" />
         </TableRow>
 
